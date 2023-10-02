@@ -158,3 +158,29 @@
 .list-bg-color{
     background-color: #FFFFFF;
 }
+.container {
+    display: flex ;
+    justify-content: space-between;
+    align-items:center;  
+
+    
+}
+.nav-container{
+    display: flex ;
+    flex-wrap: wrap;
+    align-items:center;  
+    gap: 40px
+}
+.logo-container{
+    top: 24px;
+    margin-left: 156px;
+    width: 115px;
+}
+.header-list-container{
+    display: flex ;
+    justify-content: center;
+    align-items:center;
+    top: 24px;
+    gap: 40px;
+    width: 261px;
+}
