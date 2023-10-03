@@ -172,7 +172,23 @@
     border-style: solid;
     border-color: #e7e9fc;
 }
-.flex{
+
+.menu-container{
     display: flex;
+    gap: 40px;
 }
-.nav-container
+
+.logo.container{
+    margin-right: 76px;
+
+}
+
+.list-container{
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+.adress-container{
+    display: flex;
+    gap: 40px;
+}
