@@ -178,9 +178,8 @@
     gap: 40px;
 }
 
-.logo.container{
+.logo{
     margin-right: 76px;
-
 }
 
 .list-container{
@@ -195,5 +194,5 @@
 .nav-container{
     display: flex;
     align-items: center;
-    
+
 }
