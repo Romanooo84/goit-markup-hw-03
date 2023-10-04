@@ -180,6 +180,11 @@
     border-color: #e7e9fc;
 }
 
+.header-flex{
+    display: flex ;
+    justify-content: space-between;
+}
+
 .menu-container{
     display: flex;
     gap: 40px;
@@ -204,6 +209,11 @@
     align-items: center;
 }
 
+.section-one-center{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 .section-one-container{
     padding-top: 188px;
     padding-bottom: 188px;
@@ -215,7 +225,7 @@
 
 .button-container{
     display: block;
-    min-width: 169px;
+    max-width: 169px;
     height: 56px;
     border: none;
     background-color: #4d5ae5;
