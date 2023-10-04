@@ -19,6 +19,7 @@
     list-style: none;
 
 }
+
 .no-dot{
     list-style: none;
 }
@@ -30,6 +31,7 @@
 .list:focus {
     color:var(--link-color);
 }
+
 .web{
     font-size: 18px;
     font-weight: 800;
@@ -39,6 +41,7 @@
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
+
 .link{
     text-decoration: none;
 }
@@ -46,8 +49,7 @@
 .studio{
     font-size: 18px;
     font-weight: 800;
-    color: #2E2F42;
-    
+    color: #2E2F42;   
 }
 
 .adress{
@@ -58,6 +60,7 @@
     letter-spacing: 0.02em;
     color:#434455;
 }
+
 .adress:hover{
     color:var(--link-color);
 }
@@ -108,6 +111,7 @@
     color:#FFFFFF;
     background-color:var(--link-color);
 }
+
 .button:focus{
     color:#FFFFFF;
     background-color:var(--link-color);
@@ -136,7 +140,6 @@
 
 .footer{
     background-color:#2e2f42;
-
 }
 
 .footer-logo{
@@ -162,14 +165,15 @@
 .list-bg-color{
     background-color: #FFFFFF;
 }
+
 .container {
     display: flex ;
     width: 1158px;
     margin:0 auto;
     padding-left: 15px;
-    padding-right: 15px;
-    
+    padding-right: 15px;    
 }
+
 .header-container{
     border-bottom: 1px;
     border-style: solid;
@@ -194,6 +198,7 @@
     display: flex;
     gap: 40px;
 }
+
 .nav-container{
     display: flex;
     align-items: center;
@@ -202,7 +207,6 @@
 .section-one-container{
     padding-top: 188px;
     padding-bottom: 188px;
-
 }
 
 .section-one-h-container{
@@ -217,13 +221,11 @@
     background-color: #4d5ae5;
     border-radius: 4px;
     cursor: pointer;
-
 }
 
 .section-two-container{
     padding-top: 120px;
     padding-bottom: 120px;
-
 }
 
 .visually-hidden{
@@ -236,7 +238,7 @@
 }
 
 .second-section-list-point-container{
-    styl width: calc((100% - 3*24px) / 4);
+    width: calc((100% - 3*24px) / 4);
 }
 
 .second-section-piont-header-container{
