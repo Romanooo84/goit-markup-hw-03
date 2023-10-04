@@ -238,7 +238,7 @@
 }
 
 .second-section-list-point-container{
-    width: calc((100% - 3*24px) / 4);
+    width: calc((100%-3*24px)/4);
 }
 
 .second-section-piont-header-container{
