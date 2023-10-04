@@ -219,3 +219,26 @@
     cursor: pointer;
 
 }
+
+.section-two-container{
+    padding-top: 120px;
+    padding-bottom: 120px;
+
+}
+
+.visually-hidden{
+    display: none;
+}
+
+.section-two-list-container{
+    display: flex;
+    gap: 24px;
+}
+
+.second-section-list-point-container{
+    styl width: calc((100% - 3*24px) / 4);
+}
+
+.second-section-piont-header-container{
+    margin-bottom: 8px;
+}
