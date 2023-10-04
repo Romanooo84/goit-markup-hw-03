@@ -16,8 +16,11 @@
     letter-spacing: 0.02em;
     color:#2e2f42;
     font-style: normal;
-    list-style-type: none;
+    list-style: none;
 
+}
+.no-dot{
+    list-style: none;
 }
 
 .list:hover {
@@ -162,7 +165,7 @@
 .container {
     display: flex ;
     width: 1158px;
-    margin: 0 auto;
+    margin:0 auto;
     padding-left: 15px;
     padding-right: 15px;
     
@@ -179,7 +182,7 @@
 }
 
 .logo{
-    margin-right: 76px;
+    margin-right:76px;
 }
 
 .list-container{
@@ -194,7 +197,25 @@
 .nav-container{
     display: flex;
     align-items: center;
-    
-    
+}
+
+.section-one-container{
+    padding-top: 188px;
+    padding-bottom: 188px;
+
+}
+
+.section-one-h-container{
+    max-width: 496px;
+}
+
+.button-container{
+    display: block;
+    min-width: 169px;
+    height: 56px;
+    border: none;
+    background-color: #4d5ae5;
+    border-radius: 4px;
+    cursor: pointer;
 
 }
