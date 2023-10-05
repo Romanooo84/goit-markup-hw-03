@@ -302,3 +302,16 @@
 .img-block{
     display: block;
 }
+
+.footer-container{
+    padding: 100px 0;
+}
+
+.footer-link{
+    display: inline-block;
+    margin-bottom: 16px;
+}
+
+.footer-paragraph-container{
+    max-width: 264px
+}
