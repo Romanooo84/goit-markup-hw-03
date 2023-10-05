@@ -254,7 +254,7 @@
 }
 
 .second-section-list-point-container{
-    width: calc((100% - 3 * 24px) / 4);
+    flex-basis: calc((100% - 3 * 24px) / 4);
 }
 
 .second-section-piont-header-container{
@@ -272,7 +272,7 @@
 }
 .third-list-points-container{
     display:block;
-    width: calc((100% - 3 * 16px) / 3);
+    flex-basis: calc((100% - 3 * 16px) / 3);
 
 }
 .second-section-center{
