@@ -363,7 +363,7 @@
 
 .portfolio-second-list-point{
     display: flex;
-    flex-basis: calc((100% - 2*24px) / 3)
+    flex-basis: calc((100% - 2*24px) / 3);
 }
 
 .portfolio-link{
