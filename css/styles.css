@@ -1,5 +1,6 @@
 :root{
     --link-color:#404bbf;
+    --button-color:#e7e9fc;
 }
 
 .body{
@@ -323,4 +324,31 @@
 
 .footer-paragraph-container{
     max-width: 264px
+}
+
+.portfolio-section-one{
+    padding-top: 96px; 
+    padding-bottom: 120px;
+}
+
+.portfolio-list{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    margin-bottom: 72px;
+}
+
+.portfolio-button{
+    padding: 12px 24px;
+    border: 1px solid var(--button-color);
+    border-radius: 4px;
+
+}
+
+.portfolio-button:hover{
+    border: 1px solid transparent;
+}
+
+.portfolio-button:focus{
+    border: 1px solid transparent;
 }
