@@ -267,7 +267,7 @@ h1, h2, h3, h4, h5, h6, p {
 
 .second-section-list-point-container{
     display: flex;
-    flex-basis: calc((100% - 3*24px) / 4);
+    flex-basis: calc((100% - 3*24px)/4);
 }
 
 .second-section-piont-header-container{
@@ -285,7 +285,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 .third-list-points-container{
     display:block;
-    flex-basis: calc((100% - 48px) / 3);
+    flex-basis: calc((100% - 48px)/3);
 
 }
 .second-section-center{
@@ -294,7 +294,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 .fourth-section-list-points{
-    flex-basis: calc((100% - 72px) / 4);
+    flex-basis: calc((100% - 72px)/4);
     border-radius: 0px 0px 4px 4px;
 
 }
@@ -375,7 +375,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 .portfolio-second-list-point{
-    flex-basis: calc((100% - 48px) / 3);
+    flex-basis: calc((100% - 48px)/3);
 }
 
 .portfolio-link{
