@@ -266,7 +266,7 @@ h1, h2, h3, h4, h5, h6, p, a {
 }
 
 .second-section-list-point-container{
-    display: flex;
+    
     flex-direction: column;
     flex-basis: calc((100% - 3*24px)/4);
 }
