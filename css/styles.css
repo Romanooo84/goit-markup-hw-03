@@ -322,9 +322,14 @@ h1, h2, h3, h4, h5, h6, p {
     padding: 100px 0;
 }
 
-.footer-link{
+
+.footer-div{
     flex-direction: column;
     align-items: flex-start
+}
+
+.footer-link{
+    display: inline-block;
     margin-bottom: 16px;
 }
 
