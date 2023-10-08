@@ -313,7 +313,7 @@ h1, h2, h3, h4, h5, h6, p, a {
 
 .img-block{
     display: block;
-    max-width: 100%, 
+    max-width: 100%;
     height: auto;
 }
 
@@ -327,6 +327,7 @@ h1, h2, h3, h4, h5, h6, p, a {
 }
 
 .footer-link{
+    display: inline-block;
     margin-bottom: 16px;
 }
 
