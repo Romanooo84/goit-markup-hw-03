@@ -61,6 +61,11 @@ h1, h2, h3, h4, h5, h6, p, a {
     color: #2E2F42;   
 }
 
+.second-studio{
+    font-size: 18px;
+    font-weight: 800;
+    color: #F4F4FD;
+}
 .adress{
     list-style: none;
     font-style: normal;
@@ -177,7 +182,6 @@ h1, h2, h3, h4, h5, h6, p, a {
 }
 
 .container {
-    /*display: flex;*/
     width: 1158px;
     padding-left: 15px;
     padding-right: 15px;
@@ -335,10 +339,8 @@ h1, h2, h3, h4, h5, h6, p, a {
 .footer-link{
     display: inline-block;
     margin-bottom: 16px;
-    margin: 0;
-    padding: 0;
 }
-
+    
 .footer-paragraph-container{
     max-width: 264px
 }
