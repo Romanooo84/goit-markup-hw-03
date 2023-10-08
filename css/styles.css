@@ -192,6 +192,8 @@ h1, h2, h3, h4, h5, h6, p, a {
     border-bottom: 1px;
     border-style: solid;
     border-color: #e7e9fc;
+    margin:0;
+    padding:0;
 }
 
 .header-flex{
