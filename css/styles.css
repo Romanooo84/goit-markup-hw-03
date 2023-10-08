@@ -22,11 +22,15 @@ h1, h2, h3, h4, h5, h6, p, a {
     color:#2e2f42;
     font-style: normal;
     list-style: none;
+    margin:0 ;
+    padding: 0;
 
 }
 
 .no-dot{
     list-style: none;
+    margin: 0;
+    padding: 0;
 }
 
 .list:hover {
@@ -80,6 +84,7 @@ h1, h2, h3, h4, h5, h6, p, a {
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
+    margin: 0 auto;
 }
 
 .index-button{
@@ -172,7 +177,7 @@ h1, h2, h3, h4, h5, h6, p, a {
 }
 
 .container {
-    display: flex;
+    /*display: flex;*/
     width: 1158px;
     padding-left: 15px;
     padding-right: 15px;
@@ -187,7 +192,7 @@ h1, h2, h3, h4, h5, h6, p, a {
 
 .header-flex{
     display: flex ;
-    justify-content: space-between;
+    /*justify-content: space-between;*/
 }
 
 .menu-container{
@@ -329,6 +334,8 @@ h1, h2, h3, h4, h5, h6, p, a {
 .footer-link{
     display: inline-block;
     margin-bottom: 16px;
+    margin: 0;
+    padding: 0;
 }
 
 .footer-paragraph-container{
