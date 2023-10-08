@@ -196,9 +196,9 @@ h1, h2, h3, h4, h5, h6, p, a {
 
 .header-flex{
     display: flex ;
-    /*justify-content: space-around;
+    justify-content: space-around;
     padding-bottom: 24px;
-    padding-top: 24px*/
+    padding-top: 24px
 }
 
 .menu-container{
@@ -208,7 +208,6 @@ h1, h2, h3, h4, h5, h6, p, a {
 
 .logo{
     margin-right:76px;
-    margin:0 auto;
 }
 
 .list-container{
